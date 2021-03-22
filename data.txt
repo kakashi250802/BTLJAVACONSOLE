@@ -1,0 +1,1 @@
+KHACHHANG{Ho ten='a', Gioi tinh='a', Dia chi='a', Nam sinh=2002, So DT=0920101maSoThue=111}
